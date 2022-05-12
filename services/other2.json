@@ -1,4 +1,9 @@
 {
     "url": "/other2",
-    "response": "{ \"id\": 12 }"
+    "response": "{ \"id\": 12 }",
+    "status": 200,
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "method": "GET"
 }

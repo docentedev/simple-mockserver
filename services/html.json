@@ -1,0 +1,12 @@
+{
+    "url": "/index.html",
+    "response": "<!DOCTYPE HTML> <html LANG=\"es\"><head><meta charset=\"UTF-8\"><title>fuente de múltiples elementos</title></head><body><audio id=\"audioTestElem\" autobuffer controls ><source src=\"test.m4a\"><source src=\"test.ogg\" type=\"audio/ogg; codecs=vorbis\"><source src=\"url\">no audio for you</audio></body></html>",
+    "status": 200,
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "text/html"
+        }
+    ],
+    "method": "GET"
+}
